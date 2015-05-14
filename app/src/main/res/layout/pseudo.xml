@@ -29,13 +29,15 @@
             android:layout_height="wrap_content"
             android:text="@string/pseudo_valid"
             android:id="@+id/OK_btn"
-            android:layout_weight="1" />
+            android:layout_weight="1"
+            android:onClick="onValidAction"/>
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="@string/pseudo_cancel"
             android:id="@+id/Cancel_Btn"
-            android:layout_weight="1" />
+            android:layout_weight="1"
+            android:onClick="onValidAction"/>
 
     </LinearLayout>
 
