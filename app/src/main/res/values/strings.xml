@@ -6,5 +6,9 @@
     <string name="action_settings">Settings</string>
     <string name="pseudo_Tv">Pseudo</string>
     <string name="change_pseudo_btn">Changer le pseudo</string>
+    <string name="title_activity_pseudo">pseudoActivity</string>
+    <string name="pseudo_hint">Entrez votre nouveau pseudo</string>
+    <string name="pseudo_valid">Valider</string>
+    <string name="pseudo_cancel">Annuler</string>
 
 </resources>
